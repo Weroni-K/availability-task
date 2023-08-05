@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  text-align: center;
+  flex-grow: 1;
+  width: 100%;
+  padding: 4rem 0 4rem 0;
+  font-size: 1.6rem;
+  gap: 1rem;
+}
+
+.activity-form {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 10%;
+  gap: 0.6rem;
+}
+
+.activity-slider {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.activity {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.activity-label {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
