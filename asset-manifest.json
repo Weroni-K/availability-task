@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/availability-task/static/css/main.ad35cb89.css",
+    "main.js": "/availability-task/static/js/main.c1576ccf.js",
+    "index.html": "/availability-task/index.html",
+    "main.ad35cb89.css.map": "/availability-task/static/css/main.ad35cb89.css.map",
+    "main.c1576ccf.js.map": "/availability-task/static/js/main.c1576ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad35cb89.css",
+    "static/js/main.c1576ccf.js"
+  ]
+}
